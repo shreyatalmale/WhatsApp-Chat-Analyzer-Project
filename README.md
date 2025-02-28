@@ -7,6 +7,7 @@ The WhatsApp Chat Analyzer is a Machine Learning-based data analysis tool that e
 This project is built using Python, Streamlit, Pandas, Matplotlib, Seaborn, and WordCloud. It enables users to upload WhatsApp chat files and visualize detailed analytics on chat conversations.
 
 
+
 ✨ Features:
 
 ✅ 1. Upload & Preprocess WhatsApp Chat Data
@@ -41,6 +42,7 @@ Excludes irrelevant words and stopwords.
 ✅ 7. Emoji Analysis
 😃 Detects and counts emojis used in the chat.
 📊 Pie chart visualization of the most frequently used emojis.
+
 
 
 🎯 Future Improvements:
